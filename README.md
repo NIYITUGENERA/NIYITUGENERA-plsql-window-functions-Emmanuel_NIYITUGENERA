@@ -10,7 +10,7 @@ Currently, sales data is available across customers, products, and transactions,
 Expected Outcome
 Gain insights into customer buying frequency, product popularity, and sales trends over time. Enable management to make data-driven decisions for marketing, promotions, and inventory planning.
 
-✅ Step 2: Success Criteria (2 pts)
+## Step 2: Success Criteria (2 pts)
 
 Five measurable goals:
 
