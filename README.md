@@ -17,6 +17,8 @@ Five measurable goals:
 Identify the Top 5 products per region and per quarter using RANK().
 
 Compute running monthly sales totals using SUM() OVER().
+## ER diagram
+[ER Diagram](https://github.com/NIYITUGENERA/NIYITUGENERA-plsql-window-functions-Emmanuel_NIYITUGENERA/blob/main/screenshots/15-ER%20Diagram.png)
 
 Calculate month-over-month growth using LAG()/LEAD().
 
