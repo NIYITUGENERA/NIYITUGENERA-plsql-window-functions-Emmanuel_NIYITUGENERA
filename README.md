@@ -50,3 +50,6 @@ R. Kimball and M. Ross, The Data Warehouse Toolkit: The Definitive Guide to Dime
 4. SQL Window Functions (Technical Reference)
 K. Kline, S. Kline, and B. Hunt, SQL in a Nutshell: A Desktop Quick Reference, 4th ed., O’Reilly Media, 2021.
 (Covers RANK(), NTILE(), LAG(), LEAD(), and moving averages mentioned in success criteria.)
+
+> “All sources were properly cited. Implementations and analysis represent original work.
+> No AIgenerated content was copied without attribution or adaptation.”
