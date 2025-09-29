@@ -8,12 +8,7 @@ WITH region_month AS (
   JOIN customers c ON t.customer_id = c.customer_id
   GROUP BY c.region, TRUNC(t.sale_date,'MM')
 )
--- this first part does the following:
--- Groups sales data by region and month.
--- Produces a table where each row shows:
---     .region (e.g., North, South, East, West)
---     .month_start (first day of each month, acts as the period)
---     .region_month_total (total sales for that region in that month).
+
 SELECT
   region,
   month_start,
