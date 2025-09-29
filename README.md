@@ -1,4 +1,4 @@
-# NIYITUGENERA-plsql-window-functions-Emmanuel_NIYITUGENERA
+# plsql-window-functions-Emmanuel_NIYITUGENERA
 ## Step 1: Problem Definition (2 pts)
 
 Business Context
